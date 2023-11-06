@@ -1,0 +1,95 @@
+{
+    "Sidebar": {
+        "ContactInfo": [
+            {
+                "Icon": "phone",
+                "Text": "33 23 75 51 44"
+            },
+            {
+                "Icon": "envelope",
+                "Text": "osvaldoestradac@gmail.com"
+            },
+            {
+                "Icon": "globe",
+                "Text": "www.Levioosa.tech"
+            },
+            {
+                "Icon": "map-marker",
+                "Text": "Street, Province, State, Country"
+            }
+        ],
+        "Education": [
+            {
+                "level": "Primary",
+                "name": "Ignacio Zaragoza",
+                "period": "1997-2003"
+            },
+            {
+                "level": "Secondary",
+                "name": "Universidad de Guadalajara",
+                "period": "2003-2006"
+            },
+            {
+                "level": "High School",
+                "name": "Universidad de Guadalajara",
+                "period": "2006-2009"
+            },
+            {
+                "level": "College",
+                "name": "Centro Universitario de Ciencias Exactas e Ingenierías",
+                "period": "2009-2015"
+            }
+        ],
+        "Language": [
+            {
+                "name": "English",
+                "progress": "65%"
+            },
+            {
+                "name": "Spanish",
+                "progress": "90%"
+            },
+            {
+                "name": "Portuguese",
+                "progress": "30%"
+            }
+        ]
+    },
+    "Main": {
+        "Skills": [
+            {
+                "skill": "HTML",
+                "progress": "60%"
+            },
+            {
+                "skill": "JavaScript",
+                "progress": "80%"
+            },
+            {
+                "skill": "NodeJs",
+                "progress": "90%"
+            },
+            {
+                "skill": "Lambdas",
+                "progress": "60%"
+            }
+        ],
+        "Experience": [
+            {
+                "name": "Web developer & designer",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                "period": "2015-2018"
+            },
+            {
+                "name": "Web developer & designer",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                "period": "2018-2020"
+            },
+            {
+                "name": "Web developer & designer",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                "period": "2020- current"
+            }
+        ]
+    }
+}
