@@ -6,9 +6,9 @@ const Sidebar = ({ Data }) => {
   const { ContactInfo, Education, Language } = Data;
   return (
     <div className="section_left">
-      <SContactInfo ContactInfo={ContactInfo}/>
-      <SEducation Education={Education}/>
-      <SLanguage Language={Language}/>
+      <SContactInfo ContactInfo={ContactInfo} />
+      <SEducation Education={Education} />
+      <SLanguage Language={Language} />
     </div>
   );
 };
